@@ -1,0 +1,135 @@
+{
+  "Fruit Canker": {
+    "fertilizer": "Balanced NPK fertilizer",
+    "water": "75%",
+    "medicine": ["Copper oxychloride spray"],
+    "organic_medicine": ["Neem extract", "Compost application"],
+    "prevention": "Remove infected fruits and maintain orchard hygiene."
+  },
+  "Guava fruit fly Bactrocera diversus": {
+    "fertilizer": "Balanced NPK fertilizer",
+    "water": "70%",
+    "medicine": ["Protein bait spray", "Malathion spray"],
+    "organic_medicine": ["Traps with pheromones", "Neem oil application"],
+    "prevention": "Collect and destroy fallen fruits; monitor with traps."
+  },
+  "Red Rust": {
+    "fertilizer": "Potash rich fertilizer",
+    "water": "70%",
+    "medicine": ["Sulphur spray", "Copper fungicide"],
+    "organic_medicine": ["Neem oil spray", "Cow urine solution"],
+    "prevention": "Remove infected leaves and twigs; maintain proper spacing."
+  },
+  "Stylar End Rot": {
+    "fertilizer": "Calcium-rich fertilizer",
+    "water": "80%",
+    "medicine": ["Calcium nitrate spray"],
+    "organic_medicine": ["Compost mulch", "Neem cake"],
+    "prevention": "Avoid water stress and maintain fruit hygiene."
+  },
+  "Tea Mosquito Bug, Helopeltis antonii": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Neem oil spray", "Carbaryl application"],
+    "organic_medicine": ["Neem cake", "Garlic extract spray"],
+    "prevention": "Regular monitoring and removal of affected shoots."
+  },
+  "Anthracnose": {
+    "fertilizer": "Potash-rich fertilizer",
+    "water": "75%",
+    "medicine": ["Copper oxychloride spray", "Mancozeb spray"],
+    "organic_medicine": ["Neem oil spray", "Trichoderma viride treatment"],
+    "prevention": "Prune infected parts and avoid overhead irrigation."
+  },
+  "Algal Leaf Spot": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Bordeaux mixture spray"],
+    "organic_medicine": ["Neem oil application"],
+    "prevention": "Ensure proper sunlight and air circulation; remove affected leaves."
+  },
+  "Spiraling Whitefly, Aleurodicus disperses": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Imidacloprid spray", "Insecticidal soap"],
+    "organic_medicine": ["Neem oil spray", "Sticky traps"],
+    "prevention": "Prune infested shoots and maintain sanitation."
+  },
+  "Tailed Mealy Bug, Ferrisia virgata": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Malathion spray", "Imidacloprid"],
+    "organic_medicine": ["Neem oil application", "Predatory insects release"],
+    "prevention": "Remove infested parts and monitor regularly."
+  },
+  "Guava Wilt": {
+    "fertilizer": "Nitrogen and Potash rich",
+    "water": "60%",
+    "medicine": ["Carbendazim drench", "Copper oxychloride"],
+    "organic_medicine": ["Neem cake", "Vermicompost"],
+    "prevention": "Avoid waterlogging; remove infected trees."
+  },
+  "Healthy Guava": {
+    "fertilizer": "Balanced NPK fertilizer",
+    "water": "80%",
+    "medicine": ["N/A"],
+    "organic_medicine": ["Compost", "Neem cake"],
+    "prevention": "Maintain proper nutrition, irrigation and hygiene."
+  },
+  "Root Rot": {
+    "fertilizer": "Potash rich",
+    "water": "50%",
+    "medicine": ["Carbendazim soil drench"],
+    "organic_medicine": ["Neem cake", "Vermicompost"],
+    "prevention": "Avoid waterlogging and improve soil drainage."
+  },
+  "Rust": {
+    "fertilizer": "Potash and Calcium rich",
+    "water": "70%",
+    "medicine": ["Sulphur spray", "Copper oxychloride"],
+    "organic_medicine": ["Neem oil spray"],
+    "prevention": "Remove affected leaves and avoid dense planting."
+  },
+  "Bark Eating Caterpillars": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Carbaryl or Chlorpyrifos spray"],
+    "organic_medicine": ["Neem oil spray"],
+    "prevention": "Remove affected bark and wrap trees with protective bands."
+  },
+  "Deudorix (Virachola) Isocrates": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Neem oil spray", "Bacillus thuringiensis"],
+    "organic_medicine": ["Neem cake application"],
+    "prevention": "Monitor and remove infested fruits."
+  },
+  "Fruit Borer, Rapala varuna": {
+    "fertilizer": "Balanced NPK",
+    "water": "75%",
+    "medicine": ["Neem oil", "Insecticide spray"],
+    "organic_medicine": ["Neem extract traps"],
+    "prevention": "Destroy infested fruits and maintain orchard hygiene."
+  },
+  "Fruit Borers Congethes (Dichocrocis) punctiferalis": {
+    "fertilizer": "Balanced NPK",
+    "water": "75%",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil traps"],
+    "prevention": "Remove infested fruits regularly."
+  },
+  "Green Scale, Coccus viridis": {
+    "fertilizer": "Balanced NPK",
+    "water": "70%",
+    "medicine": ["Imidacloprid spray", "Neem oil"],
+    "organic_medicine": ["Sticky traps"],
+    "prevention": "Prune infested branches and maintain sanitation."
+  },
+  "Guava Scab": {
+    "fertilizer": "Potash rich",
+    "water": "75%",
+    "medicine": ["Copper oxychloride spray"],
+    "organic_medicine": ["Neem oil spray"],
+    "prevention": "Remove infected fruits and maintain good air circulation."
+  }
+}
